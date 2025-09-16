@@ -1,6 +1,6 @@
 import { GoogleGenAI, Chat } from "@google/genai";
 
-const API_KEY = process.env.API_KEY;
+const API_KEY = PLACEHOLDER_API_KEY;
 
 if (!API_KEY) {
   throw new Error("API_KEY environment variable not set");
