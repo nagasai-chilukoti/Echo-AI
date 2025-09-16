@@ -1,0 +1,5 @@
+{
+  "name": "Echo AI",
+  "description": "A modern chat application named Echo AI that allows users to manage multiple chat sessions. It features a dynamic sidebar for session management and a main window for conversations, with state persistence across reloads.",
+  "requestFramePermissions": []
+}
